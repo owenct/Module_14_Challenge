@@ -58,3 +58,7 @@
 
 * The LogisticRegression has 66% recall score for the buying target which is not good for the best entry positions.
 * We should focus on getting a higher recall score for the buying target because the model we use is to make less mistakes when make decision to enter a position.
+
+### LogisticRegression:
+
+* In this case baseline model seem like predicting much more actual trend and we can see the baseline model has results more closer to a actual one, for make better decision I suggest run one more model to make sure my prediction is correct.
