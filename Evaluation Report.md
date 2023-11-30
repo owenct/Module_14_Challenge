@@ -3,11 +3,11 @@
 ### Baseline Algorithm:3 month
 
 <p align="center">
-  <img src="../Images/baseline_model_3m.png"/>
+  <img src="./Images/baseline_model_3m.png"/>
 </p>
 
 <p align="center">
-  <img src="../Images/baseline_model_3m_plot.png"/>
+  <img src="./Images/baseline_model_3m_plot.png"/>
 </p>
 
 `Baseline model has an accuracy score of 55% and a high recall score (96%) when buying but a low recall score (4%) when selling. This mean the model performs extremely well when enter a position.`
@@ -15,11 +15,11 @@
 ### Baseline Algorithm:6 month
 
 <p align="center">
-  <img src="../Images/baseline_model_6m_step_1.png"/>
+  <img src="./Images/baseline_model_6m_step_1.png"/>
 </p>
 
 <p align="center">
-  <img src="../Images/baseline_model_6m_plot_step_1.png"/>
+  <img src="./Images/baseline_model_6m_plot_step_1.png"/>
 </p>
 
 `Change size data to increasing the training window to 6 months and hass impact the results.`
@@ -31,11 +31,11 @@
 ### Baseline Algorithm:6 month short 8 long 40
 
 <p align="center">
-  <img src="../Images/baseline_model_s8l40_step_2.png"/>
+  <img src="./Images/baseline_model_s8l40_step_2.png"/>
 </p>
 
 <p align="center">
-  <img src="../Images/baseline_model_s8l40_plot_step_2.png"/>
+  <img src="./Images/baseline_model_s8l40_plot_step_2.png"/>
 </p>
 
 `Change input to increasing the short window to 8 and decreasing the long window to 40 months and impacted the results.`
@@ -47,11 +47,11 @@
 ### LogisticRegression:
 
 <p align="center">
-  <img src="../Images/LogisticRegression.png"/>
+  <img src="./Images/LogisticRegression.png"/>
 </p>
 
 <p align="center">
-  <img src="../Images/LogisticRegression_plot.png"/>
+  <img src="./Images/LogisticRegression_plot.png"/>
 </p>
 
 `The baseline model performed slightly better than LogisticRegression, when determining when to enter (buy) a postion.`
